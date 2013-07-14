@@ -31,6 +31,7 @@ import android.widget.TabHost.OnTabChangeListener;
 
 /**
  * Show other activities in tabs for quick and easy access.
+ * test
  *
  */
 public class Tabs extends TabActivity {
