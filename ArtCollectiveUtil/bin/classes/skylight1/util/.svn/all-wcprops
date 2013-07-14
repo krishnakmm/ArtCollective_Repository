@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/841/trunk/SkylightUtils/src/skylight1/util
+END
+PhoneIdHasher.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/795/trunk/SkylightUtils/src/skylight1/util/PhoneIdHasher.java
+END
+Assets.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/795/trunk/SkylightUtils/src/skylight1/util/Assets.java
+END
+LoggingExceptionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/827/trunk/SkylightUtils/src/skylight1/util/LoggingExceptionHandler.java
+END
+Chest.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/512/trunk/SkylightUtils/src/skylight1/util/Chest.java
+END
+Analytics.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/841/trunk/SkylightUtils/src/skylight1/util/Analytics.java
+END
+FPSLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/563/trunk/SkylightUtils/src/skylight1/util/FPSLogger.java
+END
+Adverts.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/841/trunk/SkylightUtils/src/skylight1/util/Adverts.java
+END
+BuildInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/767/trunk/SkylightUtils/src/skylight1/util/BuildInfo.java
+END
+HighScoreService.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/806/trunk/SkylightUtils/src/skylight1/util/HighScoreService.java
+END
