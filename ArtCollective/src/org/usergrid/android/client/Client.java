@@ -5,6 +5,7 @@ import java.util.Map;
 import java.util.UUID;
 import org.springframework.http.HttpMethod;
 import org.springframework.web.client.RestTemplate;
+
 import org.usergrid.android.client.callbacks.ApiResponseCallback;
 import org.usergrid.android.client.callbacks.ClientAsyncTask;
 import org.usergrid.android.client.callbacks.DeviceRegistrationCallback;
@@ -44,8 +45,6 @@ public class Client extends org.usergrid.java.client.Client {
 	public static String LOCAL_API_URL = LOCAL_STANDALONE_API_URL;
 
 	
-	static RestTemplate restTemplate = new RestTemplate(true);
-
 	/**
 	 * Default constructor for instantiating a client.
 	 */

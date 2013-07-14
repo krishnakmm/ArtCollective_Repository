@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>NYCEvents</name>
+	<name>ArtCollective</name>
 	<comment></comment>
 	<projects>
+		<project>ArtCollectiveUtils</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
