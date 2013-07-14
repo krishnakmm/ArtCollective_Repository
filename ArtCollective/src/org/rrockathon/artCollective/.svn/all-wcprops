@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/434/trunk/NYCEvents/src/skylight1/nycevents
+END
+ParkLister.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/434/trunk/NYCEvents/src/skylight1/nycevents/ParkLister.java
+END
+ArtMusicEventLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/434/trunk/NYCEvents/src/skylight1/nycevents/ArtMusicEventLoader.java
+END
+GoogleCalendarUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/434/trunk/NYCEvents/src/skylight1/nycevents/GoogleCalendarUtilities.java
+END
+Lister.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/434/trunk/NYCEvents/src/skylight1/nycevents/Lister.java
+END
+MusicLister.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/434/trunk/NYCEvents/src/skylight1/nycevents/MusicLister.java
+END
+Details.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/434/trunk/NYCEvents/src/skylight1/nycevents/Details.java
+END
+ParkEventLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/434/trunk/NYCEvents/src/skylight1/nycevents/ParkEventLoader.java
+END
+ArtLister.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/434/trunk/NYCEvents/src/skylight1/nycevents/ArtLister.java
+END
+Tabs.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/434/trunk/NYCEvents/src/skylight1/nycevents/Tabs.java
+END
+DatabaseRefresher.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/434/trunk/NYCEvents/src/skylight1/nycevents/DatabaseRefresher.java
+END
+GoogleCredentials.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/434/trunk/NYCEvents/src/skylight1/nycevents/GoogleCredentials.java
+END
+EventData.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/434/trunk/NYCEvents/src/skylight1/nycevents/EventData.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/434/trunk/NYCEvents/src/skylight1/nycevents/Constants.java
+END
+EventUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/434/trunk/NYCEvents/src/skylight1/nycevents/EventUtilities.java
+END
